@@ -7,33 +7,33 @@ const LatestEvents = () => {
   const events = [
     {
       id: 1,
-      image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600", // CHANGE THIS: Add your event image
-      postUrl: "https://www.instagram.com/p/YOUR_EVENT_POST_ID_1/", // CHANGE THIS: Add actual Instagram post URL
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/1.jpg?raw=truew=500", // CHANGE THIS: Add your image
+      postUrl: "https://www.instagram.com/p/DNhtYN1TIkJ/?utm_source=ig_web_copy_link&igsh=MWo0dGkzbnB3dTNsYg==", // CHANGE THIS: Add actual Instagram post URL
     },
     {
       id: 2,
-      image: "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=600", // CHANGE THIS: Add your event image
-      postUrl: "https://www.instagram.com/p/YOUR_EVENT_POST_ID_2/", // CHANGE THIS: Add actual Instagram post URL
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/2.jpg?raw=true?w=500", // CHANGE THIS: Add your image
+      postUrl: "https://www.instagram.com/p/DPVfCyygaT1/?utm_source=ig_web_copy_link", // CHANGE THIS: Add actual Instagram post URL
     },
     {
       id: 3,
-      image: "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600", // CHANGE THIS: Add your event image
-      postUrl: "https://www.instagram.com/p/YOUR_EVENT_POST_ID_3/", // CHANGE THIS: Add actual Instagram post URL
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/3.jpg?raw=true?w=500", // CHANGE THIS: Add your image
+      postUrl: "https://www.instagram.com/p/DPVeaPkgek5/?utm_source=ig_web_copy_link", // CHANGE THIS: Add actual Instagram post URL
     },
     {
       id: 4,
-      image: "https://images.unsplash.com/photo-1464047736614-af63643285bf?w=600", // CHANGE THIS: Add your event image
-      postUrl: "https://www.instagram.com/p/YOUR_EVENT_POST_ID_4/", // CHANGE THIS: Add actual Instagram post URL
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/4.jpg?raw=true?w=500", // CHANGE THIS: Add your image
+      postUrl: "https://www.instagram.com/p/DPOja9rAY3v/?utm_source=ig_web_copy_link", // CHANGE THIS: Add actual Instagram post URL
     },
     {
       id: 5,
-      image: "https://images.unsplash.com/photo-1509099652299-30938b0aeb63?w=600", // CHANGE THIS: Add your event image
-      postUrl: "https://www.instagram.com/p/YOUR_EVENT_POST_ID_5/", // CHANGE THIS: Add actual Instagram post URL
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/5.jpg?raw=true?w=500", // CHANGE THIS: Add your image
+      postUrl: "https://www.instagram.com/p/DPGtNXnAXAo/?utm_source=ig_web_copy_link", // CHANGE THIS: Add actual Instagram post URL
     },
     {
       id: 6,
-      image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600", // CHANGE THIS: Add your event image
-      postUrl: "https://www.instagram.com/p/YOUR_EVENT_POST_ID_6/", // CHANGE THIS: Add actual Instagram post URL
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/6.jpg?raw=true?w=500", // CHANGE THIS: Add your image
+      postUrl: "https://www.instagram.com/p/DPGtEVugTgy/?utm_source=ig_web_copy_link", // CHANGE THIS: Add actual Instagram post URL
     },
   ];
 
