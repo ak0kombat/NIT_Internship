@@ -10,22 +10,22 @@ const HeroCarousel = () => {
     {
       titleKey: "hero.slide1.title",
       subtitleKey: "hero.slide1.subtitle",
-      image: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=2070", // Change this URL
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/HC1.jpg?raw=truew=2070", // Change this URL
     },
     {
       titleKey: "hero.slide2.title",
       subtitleKey: "hero.slide2.subtitle",
-      image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2070", // Change this URL
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/HC2.jpg?raw=true&w=2070", // Change this URL
     },
     {
       titleKey: "hero.slide3.title",
       subtitleKey: "hero.slide3.subtitle",
-      image: "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?q=80&w=2070", // Change this URL
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/HC3.jpg?raw=true&w=2070", // Change this URL
     },
     {
       titleKey: "hero.slide4.title",
       subtitleKey: "hero.slide4.subtitle",
-      image: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?q=80&w=2070", // Change this URL
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/HC4.jpg?raw=truew=2070", // Change this URL
     },
   ];
 
