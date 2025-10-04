@@ -3,10 +3,10 @@ import { Card } from "@/components/ui/card";
 
 const OfficialSection = () => {
   // CHANGE IMAGES: Replace the image URLs below with your own leader photos
-  const currentCMImage = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400"; // Change this URL
-  const formerCMImage = "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400"; // Change this URL
-  const mayorImage = "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400"; // Change this URL
-  const commissionerImage = "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400"; // Change this URL
+  const currentCMImage = "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/currentCM.jpg?raw=true?w=400"; // Change this URL
+  const formerCMImage = "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/formerCM.jpg?raw=true?w=400"; // Change this URL
+  const mayorImage = "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/trichymayor.jpg?raw=true?w=400"; // Change this URL
+  const commissionerImage = "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/collector.jpg?raw=true?w=400"; // Change this URL
 
   return (
     <section className="py-16 bg-background">
