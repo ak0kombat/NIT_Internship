@@ -122,7 +122,7 @@ const LatestEvents = () => {
         }
         
         .animate-scroll-left {
-          animation: scroll-left 40s linear infinite;
+          animation: scroll-left 80s linear infinite;
         }
         
         .animate-scroll-left:hover {
