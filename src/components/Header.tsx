@@ -18,7 +18,7 @@ const Header = () => {
       { title: "Smart City Projects", href: "#" },
     ],
     "COUNCIL": [
-      { title: "Mayor", href: "#" },
+      { title: "Mayor", href: "https://www.trichycorporation.gov.in/landing/councillormembers/71#top" },
       { title: "Deputy Mayor", href: "#" },
       { title: "Councillors", href: "#" },
       { title: "Council Meetings", href: "#" },
