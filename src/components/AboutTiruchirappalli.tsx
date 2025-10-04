@@ -18,27 +18,27 @@ const AboutTiruchirappalli = () => {
     },
     {
       name: "Sri Ranganathaswamy Temple",
-      image: "https://images.unsplash.com/photo-1548013146-72479768bada?w=500",
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/Sri%20Ranganathaswamy%20temple.jpeg?raw=true?w=500",
       description: "Largest functioning Hindu temple in the world",
     },
     {
       name: "Kallanai Dam",
-      image: "https://images.unsplash.com/photo-1595855759920-86e2d133e7a2?w=500",
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/Kallanai%20Dam.jpeg?raw=true?w=500",
       description: "Ancient dam built across Kaveri river",
     },
     {
       name: "St. Joseph's Church",
-      image: "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=500",
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/Tamil%20Church%20at%20Trichy,%20TamilNadu.jpeg?raw=true?w=500",
       description: "Historic church built in 1846",
     },
     {
       name: "Mukkombu",
-      image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500",
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/Mukkombu.jpeg?raw=truew=500",
       description: "Popular picnic spot with lush greenery",
     },
     {
       name: "Government Museum",
-      image: "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?w=500",
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/museum.jpeg?raw=true?w=500",
       description: "Houses art gallery and archaeological artifacts",
     },
   ];
