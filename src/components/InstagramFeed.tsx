@@ -10,7 +10,7 @@ const InstagramFeed = () => {
     {
       id: 1,
       image: "https://images.unsplash.com/photo-1577495508048-b635879837f1?w=500", // CHANGE THIS: Add your image
-      postUrl: "https://www.instagram.com/p/YOUR_POST_ID_1/", // CHANGE THIS: Add actual Instagram post URL
+      postUrl: "https://www.instagram.com/p/DNhtYN1TIkJ/?utm_source=ig_web_copy_link&igsh=MWo0dGkzbnB3dTNsYg==", // CHANGE THIS: Add actual Instagram post URL
     },
     {
       id: 2,
