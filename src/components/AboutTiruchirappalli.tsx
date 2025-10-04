@@ -13,7 +13,7 @@ const AboutTiruchirappalli = () => {
   const famousSpots = [
     {
       name: "Rock Fort Temple",
-      image: "https://media.istockphoto.com/id/181080335/photo/rockfort-temple.webp?a=1&b=1&s=612x612&w=0&k=20&c=2hey61uAmpjhk8ZTgu9T4WvwVfx0k05giToK5fOOy0o=w=500",
+      image: "https://github.com/ak0kombat/NIT_Internship/blob/main/src/assets/Rockfort.jpeg?raw=true?w=500",
       description: "Ancient 7th century fort and temple complex",
     },
     {
