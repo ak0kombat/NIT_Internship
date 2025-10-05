@@ -71,6 +71,17 @@ const translations: Record<string, Record<Language, string>> = {
   'events.title': { en: 'Latest Events', ta: 'சமீபத்திய நிகழ்வுகள்' },
   'events.viewAll': { en: 'View All Events', ta: 'அனைத்து நிகழ்வுகளையும் பார்க்க' },
   
+  // Leadership
+  'leadership': { en: 'Leadership', ta: 'தலைமை' },
+  'cmTitle': { en: "Hon'ble Chief Minister", ta: 'மாண்புமிகு முதலமைச்சர்' },
+  'formerCM': { en: 'Former Chief Minister', ta: 'முன்னாள் முதலமைச்சர்' },
+  'mayorTitle': { en: "Hon'ble Mayor", ta: 'மாண்புமிகு மேயர்' },
+  'commissionerTitle': { en: 'Commissioner', ta: 'ஆணையர்' },
+  'tamilNaduGovt': { en: 'Government of Tamil Nadu', ta: 'தமிழ்நாடு அரசு' },
+  
+  // Videos
+  'ourVideos': { en: 'Our Videos', ta: 'எங்கள் காணொளிகள்' },
+  
   // Footer
   'footer.quickLinks': { en: 'Quick Links', ta: 'விரைவு இணைப்புகள்' },
   'footer.contact': { en: 'Contact Us', ta: 'எங்களை தொடர்பு கொள்ளுங்கள்' },
