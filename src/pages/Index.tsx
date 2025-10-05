@@ -8,6 +8,7 @@ import ServicesSection from "@/components/ServicesSection";
 import RecentNotifications from "@/components/RecentNotifications";
 import InstagramFeed from "@/components/InstagramFeed";
 import LatestEvents from "@/components/LatestEvents";
+import OurVideos from "@/components/OurVideos";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -35,6 +36,7 @@ const Index = () => {
         <RecentNotifications />
         <InstagramFeed />
         <LatestEvents />
+        <OurVideos />
         <Footer />
       </div>
     </div>
