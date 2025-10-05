@@ -8,23 +8,23 @@ const OurVideos = () => {
   // CHANGE THESE: Replace with your actual YouTube video IDs and titles
   const videos = [
     {
-      id: "https://youtu.be/S5wQJpNblMk", // Change to your video ID
+      id: "24BdIpNHQ6s", // Change to your video ID
       title: "Trichy Commissioner | N Ravichandran | Home Compost Plant | My Trichy My Responsibility", // Change title
     },
     {
       id: "மாநகராட்சி ஆணையர் அவர்களுடன் சிறப்பு நேரலை நிகழ்ச்சி ¦ 26 05 2020", // Change to your video ID
-      title: "https://youtu.be/E51C9qseQ-4", // Change title
+      title: "E51C9qseQ-4", // Change title
     },
     {
-      id: "https://youtu.be/ibsbFBvFYro", // Change to your video ID
+      id: "ibsbFBvFYro", // Change to your video ID
       title: "மாநகராட்சி ஆணையர் அவர்களுடன் சிறப்பு நேரலை நிகழ்ச்சி ¦ 11 05 2020", // Change title
     },
     {
-      id: "https://youtu.be/TN1qcPn_ncQ", // Change to your video ID
+      id: "TN1qcPn_ncQ", // Change to your video ID
       title: "திருச்சி மாநகராட்சி ஆணையர் அவர்களுடன் சிறப்பு நேரலை ¦ 27 04 2020", // Change title
     },
     {
-      id: "https://youtu.be/20kZ947qruk", // Change to your video ID
+      id: "20kZ947qruk", // Change to your video ID
       title: "திருச்சி மாநகராட்சி ஆணையர் அவர்களுடன் நேரலை நிகழ்ச்சி ¦ 28 03 2020", // Change title
     },
   ];
